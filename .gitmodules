@@ -1,0 +1,2 @@
+[submodule "nestjs-postgres-api"]
+	url = git@github.com:vedant-204/nestjs-postgres-api.git
