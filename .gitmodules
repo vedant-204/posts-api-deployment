@@ -1,3 +1,6 @@
 [submodule "nestjs-postgres-api"]
 	path = nestjs-postgres-api
 	url = git@github.com:vedant-204/nestjs-postgres-api.git
+[submodule "email-microservice"]
+	path = email-microservice
+	url = git@github.com:vedant-204/email-microservice.git
